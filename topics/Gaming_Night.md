@@ -21,10 +21,10 @@ Platforms available:
 > Please go ahead and add games to the list.
 
 ### Multiplayer FPS (First Person Shooter)
-- [Valorant (F2P)](https://playvalorant.com/)
+- [Valorant (F2P)](https://playvalorant.com/) (ag3silaus:PC)
 - [Fortnite (F2P)](https://www.epicgames.com/fortnite/) (Thomas: PC; Riley: PC)
 - [Call of Duty: Warzone (F2P)](https://www.callofduty.com/warzone)
-- [Counter-Strike: Global Offensive (F2P)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
+- [Counter-Strike: Global Offensive (F2P)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) (ag3silaus:PC)
 - [Apex Legends (F2P)](https://www.ea.com/games/apex-legends)
 - [Quake Champions (F2P)](https://quake.bethesda.net/en)
 - [Team Fortress 2 (F2P)](http://www.teamfortress.com/) (Thomas: PC)
@@ -43,6 +43,7 @@ Platforms available:
 - [NHL21](https://www.ea.com/de-de/games/nhl/nhl-21)
 - [Madden22](https://www.ea.com/games/madden-nfl/madden-nfl-22) (Thomas: PC)
 - [Everybody's Golf](https://store.playstation.com/de-de/product/EP9000-CUSA02171_00-0011223344556677/)
+- [PES 21](https://www.konami.com/wepes/2021/eu/en/pc/) (ag3silaus:PC)
 
 ### Arcade Racing
 - [Mario Kart 8 Deluxe](https://www.nintendo.de/Spiele/Nintendo-Switch/Mario-Kart-8-Deluxe-1173281.html)
@@ -65,7 +66,7 @@ Platforms available:
 ### MOBA (Multiplayer Online Battle Arena)
 - [League of Legends (F2P)](https://na.leagueoflegends.com/en-us/)
 - [Heroes of the Storm (F2P)](https://heroesofthestorm.com/en-us/)
-- [Dota 2 (F2P)](https://www.dota2.com/play)
+- [Dota 2 (F2P)](https://www.dota2.com/play) (ag3silaus:PC)
 
 ### Games w. Friends/ Other
 - [Among Us](https://www.epicgames.com/store/de/p/among-us)
